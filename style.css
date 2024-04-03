@@ -1,0 +1,49 @@
+body{
+    background-color: #3f1202;
+
+    font: normal 15px cursive;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    color: white;
+    text-align: center;
+}
+section{
+
+    background-color: rgb(255, 255, 255);
+    
+    min-width: 100px;
+    max-width: 600px;
+    
+    margin: auto;
+    padding: 15px;
+   
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px  rgba(0, 5, 4, 0.668);
+
+
+}
+
+
+div{
+    text-align: center;
+    padding: 10px;
+}
+
+#foto img {
+    width: 250px;
+
+}
+
+footer{
+    text-align: center;
+    font-style: italic;
+    color: white;
+
+}
+
+footer a{
+    color: aqua;
+}
